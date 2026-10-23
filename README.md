@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bipul Dubey</h1>
-<h3 align="center">Full Stack Software Engineer | React.js · Next.js · TypeScript · Node.js · Golang</h3>
+<h3 align="center">Full Stack Software Engineer | React.js · Next.js · TypeScript · Python · Node.js · Golang</h3>
 
 <p align="center">
   <a href="https://bipuldubey.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
